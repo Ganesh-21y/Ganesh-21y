@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ganesh-21y
 - 👀 I’m interested in java full stack development 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on java programming languahe
-- 📫 How to reach me jaba
+- 💞️ I’m looking to collaborate on java programming language
+- 📫 How to reach me java
 - 😄 Pronouns: nothing
 - ⚡ Fun fact: learning
 
